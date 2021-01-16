@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE212A09-4F48-4BBF-97F0-0AC3AF1F83AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CSGO_Skin_Gambling_Platform_Desktop_Concept</RootNamespace>
+    <AssemblyName>CSGO Skin Gambling Platform Desktop Concept</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\486c34cf5b3b4badd52bc427dbeb44a1-rocket-cartoon-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\average_2_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\average_2_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron_down_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron_down_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\discord_new_logo_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_right_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_right_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\member_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\member_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notification_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notification_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_math_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_math_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-planet-cartoon-green-moon-blue-teal-green-vector-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-pic %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-pic %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-pic %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-pic %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tasks_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tasks_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telegram_app_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up_100px.png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weapon_aug_cu_aug_whitefang_light_large.051b21da4e56c64ad78ee8a67a0e9e237a4e01b1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weapon_deagle_aa_flames_light_large.dd140c3b359c16ccd8e918ca6ad0b2628151fe1c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weapon_mp9_cu_mp9_hydra_light_large.b7763a811b3bc9d19d04502fba0edc6cbe355766.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weapon_p250_cu_p250_asiimov_light_large.7ccf465f7dc55d2d960465d404c10cbc8c442cee.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

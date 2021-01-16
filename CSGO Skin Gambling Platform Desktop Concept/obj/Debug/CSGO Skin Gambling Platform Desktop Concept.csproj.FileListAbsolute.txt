@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\bin\Debug\CSGO Skin Gambling Platform Desktop Concept.exe.config
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\bin\Debug\CSGO Skin Gambling Platform Desktop Concept.exe
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\bin\Debug\CSGO Skin Gambling Platform Desktop Concept.pdb
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO Skin Gambling Platform Desktop Concept.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO_Skin_Gambling_Platform_Desktop_Concept.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO_Skin_Gambling_Platform_Desktop_Concept.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO Skin Gambling Platform Desktop Concept.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO Skin Gambling Platform Desktop Concept.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO Skin Gambling Platform Desktop Concept.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO Skin Gambling Platform Desktop Concept.exe
+D:\AW 17\Source Code Visual Studio 19\CSGO Skin Gambling Platform Desktop Concept\CSGO Skin Gambling Platform Desktop Concept\obj\Debug\CSGO Skin Gambling Platform Desktop Concept.pdb
