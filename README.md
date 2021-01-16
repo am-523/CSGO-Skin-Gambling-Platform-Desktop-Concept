@@ -37,7 +37,7 @@ CSGO Skin Gambling Platform Desktop Concept
 
 
 ## Tutorial 📸
-- <a href="https://youtu.be/ho5lwSCxCmU">
+- <a href="https://youtu.be/Hho3v1RIVhg">
 			Youtube
 		</a> 
 
